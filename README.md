@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Aleksandar Vatev! 👋
 
-<!--
-**Chachko1/Chachko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a Java Developer actively seeking opportunities in the IT industry.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on improving my skills in MySQL, Spring Data, and Hibernate.
+- 🌱 I’m constantly learning and expanding my knowledge.
+- 💬 I'm fluent in Java, JavaScript, HTML, CSS, and object-oriented programming.
+- 🌐 I speak English and a bit of German.
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chachko1)](https://github.com/Chachko1)
+
+### 🛠️ Languages and Tools
+
+- Java
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Spring Data
+- Hibernate
+
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AleksandarVatev-blue)](https://www.linkedin.com/in/aleksandarvatev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
