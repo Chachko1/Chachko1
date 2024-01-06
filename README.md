@@ -1,6 +1,6 @@
 # Hi, I'm Aleksandar Vatev! 👋
 
-🚀 I'm a Java Developer actively seeking opportunities in the IT industry.
+🚀 I'm a Software Developer actively seeking opportunities in the IT industry.
 
 - 🔭 I’m currently working on improving my skills in MySQL, Spring Data, and Hibernate.
 - 🌱 I’m constantly learning and expanding my knowledge.
