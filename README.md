@@ -2,9 +2,9 @@
 
 🚀 I'm a Software Developer actively seeking opportunities in the IT industry.
 
-- 🔭 I’m currently working on improving my skills in MySQL, Spring Data, and Hibernate.
+- 🔭 I’m currently working on improving my skills in  PostgreSQL, React, Docker, CI/CD pipelines, MySQL, Spring Data, and Hibernate.
 - 🌱 I’m constantly learning and expanding my knowledge.
-- 💬 I'm fluent in Java, JavaScript, HTML, CSS, and object-oriented programming.
+- 💬 I'm fluent in Java, JavaScript, Node, Express, HTML, CSS, and object-oriented programming.
 - 🌐 I speak English and a bit of German.
 - 😄 Pronouns: He/Him
 
