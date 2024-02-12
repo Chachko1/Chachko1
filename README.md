@@ -1,6 +1,6 @@
 # Hello, I'm Aleksandar Vatev 👋
 
-Passionate SoftUni student on the Java path, fluent in English and proficient in German. Skilled in OOP and SOLID principles, with expertise in Java, JavaScript, HTML, CSS, Node.js, jQuery, and React.js. Currently expanding knowledge in MySQL, Hibernate, Spring Data, Linux Shell, Docker Compose, and CI/CD pipelines. Eager to contribute and grow in the dynamic world of software development.
+Passionate SoftUni student on the Java path, fluent in English and proficient in German. Skilled in OOP and SOLID principles, with expertise in Java, MySQL, JavaScript, HTML, CSS, Node.js, jQuery, and React.js. Currently expanding knowledge in Hibernate, Spring Data, Linux Shell, Docker Compose, and CI/CD pipelines. Eager to contribute and grow in the dynamic world of software development.
 
 ## Skills
 
